@@ -44,21 +44,18 @@ a.theme-link {
 	@include transition (all 0.4s ease-in-out);
 	border: none;
 	font-family: 'Montserrat', sans-serif;
+	&:focus {
+	    @include box-shadow(none);
+    }
 }
 
 .btn-primary {
    background: $theme-color-primary;
-}
-
-.btn-secondary {
-	background: none;
-	border: 2px solid $theme-color-primary;
-	color: $theme-color-primary;
-	&:hover {
-		background: $theme-color-primary;
-		color: white;
+   &:not(:disabled):not(.disabled):active:focus {
+	    @include box-shadow(none);
 	}
 }
+
 
 .btn-ghost {
 	background: none;
