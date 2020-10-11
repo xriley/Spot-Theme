@@ -34,7 +34,7 @@ $(document).ready(function() {
 	
 	/* ======= Countdown ========= */
 	// set the date we're counting down to
-    var target_date = new Date("Dec 1, 2020").getTime();
+    var target_date = new Date("Dec 1, 2024").getTime();
      
     // variables for time units
     var days, hours, minutes, seconds;

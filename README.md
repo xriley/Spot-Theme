@@ -28,7 +28,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**v1.0** - 25 April 2020
+**v1.2** - 11 Oct 2020
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/free/spot-free-bootstrap-4-product-landing-page-template-for-digital-physical-products/?target=changelog)
 
