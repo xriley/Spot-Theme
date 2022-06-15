@@ -45,6 +45,5 @@ If you'd like to **use the template without the attribution link**, you can [buy
 ## Credits
 - [Bootstrap](https://getbootstrap.com/)
 - [FontAwesome](https://fontawesome.com/)
-- [Streamline Icons](https://transactions.sendowl.com/stores/9358/151385)
 - [Animate on scroll library](https://github.com/michalsnik/aos)
 - [Product Images](https://github.com/michalsnik/aos) - From [made4dev.com](https://made4dev.com) (All images are shown for demonstration purposes only)
