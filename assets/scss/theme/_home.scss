@@ -266,10 +266,39 @@
 	
 	.product-link {
 		font-size: 0.875rem;
+		a {
+			color: $theme-color-primary;
+		}
 	}
 	
 	
 }
+
+
+.tns-nav {
+	display: block;
+	margin-top: 1rem;
+	position: absolute;
+    text-align: center;
+    width: 100%;
+	
+	button {
+	    width: 10px;
+	    height: 10px;
+	    padding: 0;
+	    margin: 0 8px;
+	    border-radius: 50%;
+	    background: lighten($theme-color-primary, 35%);
+	    border: 0;
+	    &.tns-nav-active {
+		    background: darken($theme-color-primary, 10%);
+	    }
+	    &:hover {
+		    background: lighten($theme-color-primary, 15%);
+	    }
+	}
+}
+
 
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
 	background: $theme-text-color-secondary;

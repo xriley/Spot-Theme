@@ -26,6 +26,10 @@ h1, h2, h3, h4, h5, h6 {
 	
 }
 
+a {
+	color: $theme-color-primary;
+}
+
 
 a.theme-link {
 	color: $theme-text-color-primary;
@@ -52,8 +56,12 @@ a.theme-link {
 
 .btn-primary {
    background: $theme-color-primary;
+   color: #fff;
    &:not(:disabled):not(.disabled):active:focus {
 	    @include box-shadow(none);
+	}
+	&:hover, &:focus {
+		color: #fff;
 	}
 }
 
