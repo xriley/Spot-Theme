@@ -1,4 +1,4 @@
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/product/spot-free-bootstrap-product-landing-page-template-for-digital-physical-products/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/06/Bootstrap-Product-Landing-Page-Template-Spot-Promo.jpg" alt="Bootstrap 5 Product Landing Page Template for Developers" /></a>
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/product/spot-free-bootstrap-product-landing-page-template-for-digital-physical-products/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/06/Bootstrap-Product-Landing-Page-Template-Spot-Promo-1.jpg" alt="Bootstrap 5 Product Landing Page Template for Developers" /></a>
 
 ## Theme Details & Demo
 
