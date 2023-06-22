@@ -166,7 +166,7 @@
 	
 	.carousel-indicators {
 		bottom: -3rem;
-		li {
+		button {
 		   background: $theme-text-color-secondary;	
 		   @include opacity(0.3);
 		   border: none;

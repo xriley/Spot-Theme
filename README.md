@@ -28,7 +28,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**Bootstrap 5 v1.0** - 2022-06-15
+**Bootstrap 5 v2.0** - 2023-06-22
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/product/spot-free-bootstrap-product-landing-page-template-for-digital-physical-products/?target=changelog)
 
